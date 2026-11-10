@@ -1,0 +1,65 @@
+# Stems the MorphGNT-derived lexicon lacks, transcribed from the principal
+# parts in the supplied vocabulary. Used only to explain forms that are
+# already in the pack (tools/extract_construction_details.py); no practice
+# form is generated from this file.
+# Keys: 1 present, 2 future, 3 aorist, 4 perfect active, 5 perfect middle,
+# 6 aorist passive, 7 future passive; "+" is the augmented stem.
+λύω:
+  stems:
+    2-: λῡσ
+    4-: λελυκ
+    4+: ἐλελυκ
+    5+: ἐλελυ
+παύω:
+  stems:
+    4-: πεπαυκ
+    4+: ἐπεπαυκ
+    5+: ἐπεπαυ
+    6-: παυθ
+    6+: ἐπαυθ
+    7-: παυθησ
+νικάω:
+  stems:
+    1+: ἐνῑκα
+τιμάω:
+  stems:
+    1+: ἐτῑμα
+ἐθέλω:
+  stems:
+    1-: ἐθελ
+    1+: ἠθελ
+φιλέω:
+  stems:
+    2-: φιλησ
+λαμβάνω:
+  stems:
+    2-: ληψ
+    6-: ληφθ
+    6+: ἐληφθ
+    7-: ληφθησ
+# -μι and irregular verbs. {athematic} and {root} name the stem class.
+ἵστημι:
+  stems:
+    1-: ἱστα{athematic}
+    1+: ἱστα{athematic}
+δίδωμι:
+  stems:
+    3+: ἐδο{root}
+ἵημι:
+  stems:
+    1-: ἱε{athematic}
+    1+: ἱε{athematic}
+    2-: ἡσ
+δείκνυμι:
+  stems:
+    1+: ἐδεικνῡ{athematic}
+    4-: δεδειχ
+φημί:
+  stems:
+    2-: φησ
+ἐπίσταμαι:
+  stems:
+    1+: ἠπιστα{athematic}
+οἶδα:
+  stems:
+    2-: εἰσ

@@ -1,0 +1,908 @@
+[
+  {
+    "headword": "εἰμί, ἔσομαι, impf. ἦν, infin. εἶναι",
+    "candidate": "εἰμί",
+    "partOfSpeech": "verb: irregular",
+    "frequencyRank": 6
+  },
+  {
+    "headword": "λέγω, ἐρῶ, εἶπον, εἴρηκα, λέλεγμαι, ἐλέχθην and ἐρρήθην",
+    "candidate": "λέγω",
+    "partOfSpeech": "verb: irregular",
+    "frequencyRank": 15
+  },
+  {
+    "headword": "γίγνομαι, γενήσομαι, 2 aor. ἐγενόμην, γέγονα, γεγένημαι, ἐγενήθην",
+    "candidate": "γίγνομαι",
+    "partOfSpeech": "verb: deponent",
+    "frequencyRank": 23
+  },
+  {
+    "headword": "ἔχω, ἕξω or σχήσω, 2 aor. ἔσχον, ἔσχηκα, impf. εἶχον",
+    "candidate": "ἔχω",
+    "partOfSpeech": "verb: irregular",
+    "frequencyRank": 28
+  },
+  {
+    "headword": "φημί, φήσω, impf. ἔφην",
+    "candidate": "φημί",
+    "partOfSpeech": "verb: -μι",
+    "frequencyRank": 41
+  },
+  {
+    "headword": "ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην",
+    "candidate": "ποιέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 43
+  },
+  {
+    "headword": "εἶπον",
+    "candidate": "εἶπον",
+    "partOfSpeech": "verb: irregular",
+    "frequencyRank": 57
+  },
+  {
+    "headword": "ἵημι, ἥσω, ἧκα, -εἷκα, εἷμαι, -εἵθην",
+    "candidate": "ἵημι",
+    "partOfSpeech": "verb: -μι",
+    "frequencyRank": 63
+  },
+  {
+    "headword": "δέω, δεήσω, ἐδέησα, δεδέηκα, δεδέημαι, ἐδεήθην",
+    "candidate": "δέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 64
+  },
+  {
+    "headword": "ὁράω, ὄψομαι, 2 aor. εἶδον, ἑόρακα and ἑώρακα, ὤφθην, impf. ἑώρων",
+    "candidate": "ὁράω",
+    "partOfSpeech": "verb: irregular",
+    "frequencyRank": 66
+  },
+  {
+    "headword": "λαμβάνω, λήψομαι, ἔλαβον, εἴληφα, εἴλημμαι, ἐλήφθην",
+    "candidate": "λαμβάνω",
+    "partOfSpeech": "verb: -ω labial stem",
+    "frequencyRank": 70
+  },
+  {
+    "headword": "δοκέω, δόξω, ἔδοξα",
+    "candidate": "δοκέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 71
+  },
+  {
+    "headword": "καλέω, καλῶ, ἐκάλεσα, κέκληκα, κέκλημαι, ἐκλήθην",
+    "candidate": "καλέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 77
+  },
+  {
+    "headword": "δεῖ, δεήσει, impf. ἔδει",
+    "candidate": "δεῖ",
+    "partOfSpeech": "verb: impersonal",
+    "frequencyRank": 79
+  },
+  {
+    "headword": "δίδωμι, δώσω, ἔδωκα, δέδωκα, δέδομαι, ἐδόθην",
+    "candidate": "δίδωμι",
+    "partOfSpeech": "verb: -μι",
+    "frequencyRank": 81
+  },
+  {
+    "headword": "δύναμαι, δυνήσομαι, ἐδυνήθην, δεδύνημαι",
+    "candidate": "δύναμαι",
+    "partOfSpeech": "verb: deponent",
+    "frequencyRank": 85
+  },
+  {
+    "headword": "φύω, φύσω, ἔφυσα",
+    "candidate": "φύω",
+    "partOfSpeech": "verb: -ω vowel stem",
+    "frequencyRank": 90
+  },
+  {
+    "headword": "χράομαι, χρήσομαι, ἐχρησάμην, κέχρημαι, ἐχρήσθην",
+    "candidate": "χράομαι",
+    "partOfSpeech": "verb: deponent",
+    "frequencyRank": 104
+  },
+  {
+    "headword": "οἶδα, infin. εἰδέναι, imper. ἴσθι, plupf. used as impf. ᾔδειν",
+    "candidate": "οἶδα",
+    "partOfSpeech": "verb: irregular",
+    "frequencyRank": 110
+  },
+  {
+    "headword": "βούλομαι, βουλήσομαι, βεβούλημαι, ἐβουλήθην",
+    "candidate": "βούλομαι",
+    "partOfSpeech": "verb: deponent",
+    "frequencyRank": 113
+  },
+  {
+    "headword": "φαίνω, φανῶ, ἔφηνα, πέφηνα, πέφασμαι, ἐφάνην",
+    "candidate": "φαίνω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 114
+  },
+  {
+    "headword": "γράφω, γράψω, ἔγραψα, γέγραφα, γέγραμμαι, ἐγράφην",
+    "candidate": "γράφω",
+    "partOfSpeech": "verb: -ω labial stem",
+    "frequencyRank": 115
+  },
+  {
+    "headword": "φέρω, οἴσω, 1 aor. ἤνεγκα, 2 aor. ἤνεγκον, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην",
+    "candidate": "φέρω",
+    "partOfSpeech": "verb: irregular",
+    "frequencyRank": 116
+  },
+  {
+    "headword": "ὑπάρχω, ὑπάρξω, ὑπῆρξα, ὑπῆργμαι, ὑπήρχθην",
+    "candidate": "ὑπάρχω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 122
+  },
+  {
+    "headword": "ἄρχω, ἄρξω, ἦρξα, ἦργμαι, ἤρχθην",
+    "candidate": "ἄρχω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 123
+  },
+  {
+    "headword": "ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, plup. ἠκηκόη or ἀκηκόη, ἠκούσθην",
+    "candidate": "ἀκούω",
+    "partOfSpeech": "verb: -ω vowel stem",
+    "frequencyRank": 131
+  },
+  {
+    "headword": "πράσσω, πράξω, ἔπραξα, πέπραχα, πέπραγμαι, ἐπράχθην",
+    "candidate": "πράσσω",
+    "partOfSpeech": "verb: -ω dental stem",
+    "frequencyRank": 134
+  },
+  {
+    "headword": "εὑρίσκω, εὑρήσω, 2 aor. ηὗρον or εὗρον, ηὕρηκα or εὕρηκα, εὕρημαι, εὑρέθην",
+    "candidate": "εὑρίσκω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 136
+  },
+  {
+    "headword": "ἔρχομαι, fut. εἶμι or ἐλεύσομαι, 2 aor. ἦλθον, ἐλήλυθα",
+    "candidate": "ἔρχομαι",
+    "partOfSpeech": "verb: deponent",
+    "frequencyRank": 138
+  },
+  {
+    "headword": "γιγνώσκω, γνώσομαι, ἔγνων, ἔγνωκα, ἔγνωσμαι, ἐγνώσθην",
+    "candidate": "γιγνώσκω",
+    "partOfSpeech": "verb: irregular",
+    "frequencyRank": 143
+  },
+  {
+    "headword": "τυγχάνω, τεύξομαι, ἔτυχον, τετύχηκα, τέτυγμαι, ἐτύχθην",
+    "candidate": "τυγχάνω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 144
+  },
+  {
+    "headword": "ἵστημι στήσω will set, ἔστησα set, caused to stand, 2 aor. ἔστην stood, ἕστηκα stand, plup. εἱστήκη stood, ἐστάθην stood",
+    "candidate": "ἵστημι",
+    "partOfSpeech": "verb: -μι",
+    "frequencyRank": 145
+  },
+  {
+    "headword": "ἄγω, ἄξω, ἤγαγον, ἦχα, ἦγμαι, ἤχθην",
+    "candidate": "ἄγω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 147
+  },
+  {
+    "headword": "συμβαίνω, συμβήσομαι, 2 aor. συνέβην, συμβέβηκα",
+    "candidate": "συμβαίνω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 154
+  },
+  {
+    "headword": "πλέω, πλεύσομαι, ἔπλευσα, πέπλευκα, πέπλευσμαι, ἐπλεύσθην",
+    "candidate": "πλέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 156
+  },
+  {
+    "headword": "χρή, impf. χρῆν or ἐχρῆν, infin. χρῆναι",
+    "candidate": "χρή",
+    "partOfSpeech": "verb: impersonal",
+    "frequencyRank": 159
+  },
+  {
+    "headword": "δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην",
+    "candidate": "δείκνυμι",
+    "partOfSpeech": "verb: -μι",
+    "frequencyRank": 160
+  },
+  {
+    "headword": "τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι (but usu. κεῖμαι instead), ἐτέθην",
+    "candidate": "τίθημι",
+    "partOfSpeech": "verb: -μι",
+    "frequencyRank": 164
+  },
+  {
+    "headword": "εἶδον, 2 aor. of ὁράω, act. infin. ἰδεῖν, mid.infin. ἰδέσθαι",
+    "candidate": "εἶδον",
+    "partOfSpeech": "verb: irregular",
+    "frequencyRank": 165
+  },
+  {
+    "headword": "οἴομαι or οἶμαι, οἰήσομαι, impf. ᾤμην, aor. ᾠήθην",
+    "candidate": "οἴομαι",
+    "partOfSpeech": "verb: deponent",
+    "frequencyRank": 171
+  },
+  {
+    "headword": "κινέω, κινήσω, ἐκίνησα, κεκίνηκα, κεκίνημαι, ἐκινήθην",
+    "candidate": "κινέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 172
+  },
+  {
+    "headword": "πάσχω, πείσομαι, ἔπαθον, πέπονθα",
+    "candidate": "πάσχω",
+    "partOfSpeech": "verb: -ω dental stem",
+    "frequencyRank": 173
+  },
+  {
+    "headword": "μέλλω, μελλήσω, ἐμέλλησα",
+    "candidate": "μέλλω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 181
+  },
+  {
+    "headword": "ἐθέλω, ἐθελήσω, ἠθέλησα, ἠθέληκα",
+    "candidate": "ἐθέλω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 182
+  },
+  {
+    "headword": "ζάω, ζήσω, ἔζησα, ἔζηκα",
+    "candidate": "ζάω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 189
+  },
+  {
+    "headword": "πείθω, πείσω, ἔπεισα, πέποιθα, πέπεισμαι, ἐπείσθην",
+    "candidate": "πείθω",
+    "partOfSpeech": "verb: -ω dental stem",
+    "frequencyRank": 193
+  },
+  {
+    "headword": "πάρειμι",
+    "candidate": "πάρειμι",
+    "partOfSpeech": "verb: irregular",
+    "frequencyRank": 194
+  },
+  {
+    "headword": "νομίζω, νομιῶ, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην",
+    "candidate": "νομίζω",
+    "partOfSpeech": "verb: -ω dental stem",
+    "frequencyRank": 200
+  },
+  {
+    "headword": "ὀνομάζω, ὀνομάσω, ὠνόμασα, ὠνόμακα, ὠνόμασμαι, ὠνομάσθην",
+    "candidate": "ὀνομάζω",
+    "partOfSpeech": "verb: -ω dental stem",
+    "frequencyRank": 204
+  },
+  {
+    "headword": "διαφέρω, διοίσω, 1 aor. διήνεγκα, 2 aor. διήνεγκον, διενήνοχα, διενήνεγμαι",
+    "candidate": "διαφέρω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 215
+  },
+  {
+    "headword": "εἶμι, infin. ἰέναι, ptc. ἰών, ἰοῦσα, ἰόν",
+    "candidate": "εἶμι",
+    "partOfSpeech": "verb: -μι",
+    "frequencyRank": 224
+  },
+  {
+    "headword": "φυλάσσω, φυλάξω, ἐφύλαξα, πεφύλαχα, πεφύλαγμαι, ἐφυλάχθην",
+    "candidate": "φυλάσσω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 230
+  },
+  {
+    "headword": "οἰκέω, οἰκήσω, ᾤκησα, ᾤκηκα, ᾠκήθην",
+    "candidate": "οἰκέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 232
+  },
+  {
+    "headword": "παρέχω, παρέξω, παρέσχον, παρέσχηκα, impf. παρεῖχον",
+    "candidate": "παρέχω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 235
+  },
+  {
+    "headword": "δηλόω, δηλώσω, ἐδήλωσα, δεδήλωκα, ἐδηλώθην",
+    "candidate": "δηλόω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 237
+  },
+  {
+    "headword": "κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην",
+    "candidate": "κελεύω",
+    "partOfSpeech": "verb: -ω vowel stem",
+    "frequencyRank": 239
+  },
+  {
+    "headword": "ἡγέομαι, ἡγήσομαι, ἡγησάμην, ἥγημαι",
+    "candidate": "ἡγέομαι",
+    "partOfSpeech": "verb: deponent",
+    "frequencyRank": 241
+  },
+  {
+    "headword": "ἔρομαι, ἐρήσομαι, 2 aor. ἠρόμην",
+    "candidate": "ἔρομαι",
+    "partOfSpeech": "verb: deponent",
+    "frequencyRank": 247
+  },
+  {
+    "headword": "κεῖμαι, κείσομαι",
+    "candidate": "κεῖμαι",
+    "partOfSpeech": "verb: deponent",
+    "frequencyRank": 251
+  },
+  {
+    "headword": "πίνω, πίομαι, 2 aor. ἔπιον, πέπωκα, -πέπομαι, -επόθην",
+    "candidate": "πίνω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 253
+  },
+  {
+    "headword": "ζητέω, ζητήσω, ἐζήτησα, ἐζήτηκα",
+    "candidate": "ζητέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 256
+  },
+  {
+    "headword": "μανθάνω, μαθήσομαι, ἔμαθον, μεμάθηκα",
+    "candidate": "μανθάνω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 259
+  },
+  {
+    "headword": "φεύγω, φεύξομαι, ἔφυγον, πέφευγα",
+    "candidate": "φεύγω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 261
+  },
+  {
+    "headword": "αἱρέω, αἱρήσω, 2 aor. εἷλον, ᾕρηκα, ᾕρημαι, ᾑρέθην",
+    "candidate": "αἱρέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 265
+  },
+  {
+    "headword": "προστίθημι, προσθήσω, προσέθηκα, προστέθηκα, προστέθειμαι (but commonly προσκεῖμαι instead), προσετέθην",
+    "candidate": "προστίθημι",
+    "partOfSpeech": "verb: -μι",
+    "frequencyRank": 266
+  },
+  {
+    "headword": "ἀξιόω, ἀξιώσω, ἠξίωσα, ἠξίωκα, ἠξίωμαι, ἠξιώθην",
+    "candidate": "ἀξιόω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 267
+  },
+  {
+    "headword": "ἔοικα, ptc. εἰκώς",
+    "candidate": "ἔοικα",
+    "partOfSpeech": "verb: irregular",
+    "frequencyRank": 270
+  },
+  {
+    "headword": "καθίστημι, καταστήσω, κατέστησα, κατέστην, καθέστηκα, plupf. καθειστήκη, κατεστάθην",
+    "candidate": "καθίστημι",
+    "partOfSpeech": "verb: -μι",
+    "frequencyRank": 272
+  },
+  {
+    "headword": "σῴζω, σώσω, ἔσωσα, σέσωκα, ἐσώθην",
+    "candidate": "σῴζω",
+    "partOfSpeech": "verb: -ω dental stem",
+    "frequencyRank": 275
+  },
+  {
+    "headword": "πέμπω, πέμψω, ἔπεμψα, πέπομφα, πέπεμμαι, ἐπέμφθην",
+    "candidate": "πέμπω",
+    "partOfSpeech": "verb: -ω labial stem",
+    "frequencyRank": 276
+  },
+  {
+    "headword": "ἀπόλλυμι, ἀπολῶ, ἀπώλεσα, 2 aor. mid. ἀπωλόμην, pf. ἀπολώλεκα (“I have utterly destroyed”) or ἀπόλωλα (“I am undone”)",
+    "candidate": "ἀπόλλυμι",
+    "partOfSpeech": "verb: -μι",
+    "frequencyRank": 279
+  },
+  {
+    "headword": "ἀποδίδωμι, ἀποδώσω, ἀπέδωκα, ἀποδέδωκα, ἀποδέδομαι, ἀπεδόθην",
+    "candidate": "ἀποδίδωμι",
+    "partOfSpeech": "verb: -μι",
+    "frequencyRank": 284
+  },
+  {
+    "headword": "μένω, μενῶ, ἔμεινα, μεμένηκα",
+    "candidate": "μένω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 286
+  },
+  {
+    "headword": "ἀποθνῄσκω, ἀποθανοῦμαι, 2 aor. ἀπέθανον, ἀποτέθνηκα",
+    "candidate": "ἀποθνῄσκω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 287
+  },
+  {
+    "headword": "κρίνω, κρινῶ, ἔκρινα, κέκρικα, κέκριμαι, ἐκρίθην",
+    "candidate": "κρίνω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 290
+  },
+  {
+    "headword": "ἀναιρέω, ἀναιρήσω, ἀνεῖλον, ἀνῄρηκα, ἀνῄρημαι, ἀνῃρέθην",
+    "candidate": "ἀναιρέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 291
+  },
+  {
+    "headword": "ἥκω, ἥξω, pf. ἧκα",
+    "candidate": "ἥκω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 293
+  },
+  {
+    "headword": "κρατέω, κρατήσω, ἐκράτησα, κεκράτηκα, κεκράτημαι, ἐκρατήθην",
+    "candidate": "κρατέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 298
+  },
+  {
+    "headword": "ἕπομαι ἕψομαι, 2 aor. ἑσπόμην",
+    "candidate": "ἕπομαι",
+    "partOfSpeech": "verb: deponent",
+    "frequencyRank": 301
+  },
+  {
+    "headword": "ἀφαιρέω, ἀφαιρήσω, ἀφεῖλον, ἀφῄρηκα, ἀφῄρημαι, ἀφῃρέθην",
+    "candidate": "ἀφαιρέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 310
+  },
+  {
+    "headword": "πιστεύω, πιστεύσω, ἐπίστευσα, πεπίστευκα, πεπίστευμαι, ἐπιστεύθην",
+    "candidate": "πιστεύω",
+    "partOfSpeech": "verb: -ω vowel stem",
+    "frequencyRank": 314
+  },
+  {
+    "headword": "διδάσκω, διδάξω, ἐδίδαξα, δεδίδαχα, δεδίδαγμαι, ἐδιδάχθην",
+    "candidate": "διδάσκω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 315
+  },
+  {
+    "headword": "τάσσω, τάξω, ἔταξα, τέταχα, τέταγμαι, ἐτάχθην",
+    "candidate": "τάσσω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 317
+  },
+  {
+    "headword": "δέχομαι, δέξομαι, ἐδεξάμην, δέδεγμαι, -εδέχθην",
+    "candidate": "δέχομαι",
+    "partOfSpeech": "verb: deponent",
+    "frequencyRank": 319
+  },
+  {
+    "headword": "ἀφικνέομαι, ἀφίξομαι, 2 aor. ἀφικόμην, ἀφῖγμαι",
+    "candidate": "ἀφικνέομαι",
+    "partOfSpeech": "verb: deponent",
+    "frequencyRank": 320
+  },
+  {
+    "headword": "ἐργάζομαι, ἐργάσομαι, εἰργασάμην, εἴργασμαι",
+    "candidate": "ἐργάζομαι",
+    "partOfSpeech": "verb: deponent",
+    "frequencyRank": 322
+  },
+  {
+    "headword": "τρέφω, θρέψω, ἔθρεψα, τέθραμμαι, ἐτράφην",
+    "candidate": "τρέφω",
+    "partOfSpeech": "verb: -ω labial stem",
+    "frequencyRank": 324
+  },
+  {
+    "headword": "ἀφίημι, ἀφήσω, ἀφῆκα, ἀφεῖκα, ἀφεῖμαι, ἀφείθην",
+    "candidate": "ἀφίημι",
+    "partOfSpeech": "verb: -μι",
+    "frequencyRank": 341
+  },
+  {
+    "headword": "νικάω, νικήσω, ἐνίκησα, νενίκηκα, νενίκημαι, ἐνικήθην",
+    "candidate": "νικάω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 346
+  },
+  {
+    "headword": "ὁμολογέω, ὁμολογήσω, ὡμολόγησα, ὡμολόγηκα, ὡμολόγημαι, ὡμολογήθην",
+    "candidate": "ὁμολογέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 347
+  },
+  {
+    "headword": "προσήκω προσήξω",
+    "candidate": "προσήκω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 358
+  },
+  {
+    "headword": "ἀδικέω, ἀδικήσω, ἠδίκησα, ἠδίκηκα, ἠδίκημαι, ἠδικήθην",
+    "candidate": "ἀδικέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 360
+  },
+  {
+    "headword": "παύω, παύσω, ἔπαυσα, πέπαυκα, πέπαυμαι, ἐπαύθην",
+    "candidate": "παύω",
+    "partOfSpeech": "verb: -ω vowel stem",
+    "frequencyRank": 364
+  },
+  {
+    "headword": "τελευτάω, τελευτήσω, ἐτελεύτησα, τετελεύτηκα, τετελεύτημαι, ἐτελευτήθην",
+    "candidate": "τελευτάω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 365
+  },
+  {
+    "headword": "μίγνυμι, μίξω, ἔμιξα, μέμιχα,μέμιγμαι, ἐμίχθην",
+    "candidate": "μίγνυμι",
+    "partOfSpeech": "verb: -μι",
+    "frequencyRank": 366
+  },
+  {
+    "headword": "παραδίδωμι, παραδώσω, παρέδωκα, παραδέδωκα, παραδέδομαι, παρεδόθην",
+    "candidate": "παραδίδωμι",
+    "partOfSpeech": "verb: -μι",
+    "frequencyRank": 370
+  },
+  {
+    "headword": "ἐάω, ἐάσω, εἴασα",
+    "candidate": "ἐάω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 375
+  },
+  {
+    "headword": "θαυμάζω, θαυμάσομαι, ἐθαύμασα, τεθαύμακα, τεθαύμασμαι, ἐθαυμάσθην",
+    "candidate": "θαυμάζω",
+    "partOfSpeech": "verb: -ω dental stem",
+    "frequencyRank": 376
+  },
+  {
+    "headword": "αἰσθάνομαι, αἰσθήσομαι, 2 aor. ᾐσθόμην, ᾔσθημαι",
+    "candidate": "αἰσθάνομαι",
+    "partOfSpeech": "verb: deponent",
+    "frequencyRank": 377
+  },
+  {
+    "headword": "χαίρω, χαιρήσω, κεχάρηκα, κεχάρημαι, ἐχάρην",
+    "candidate": "χαίρω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 378
+  },
+  {
+    "headword": "καταλαμβάνω, καταλήψομαι, κατέλαβον, κατείληφα, κατείλημμαι, κατελήφθην",
+    "candidate": "καταλαμβάνω",
+    "partOfSpeech": "verb: -ω labial stem",
+    "frequencyRank": 381
+  },
+  {
+    "headword": "μάχομαι, μαχοῦμαι, ἐμαχεσάμην, μεμάχημαι",
+    "candidate": "μάχομαι",
+    "partOfSpeech": "verb: deponent",
+    "frequencyRank": 382
+  },
+  {
+    "headword": "μιμνήσκω, -μνήσω, -έμνησα, pf. μέμνημαι, ἐμνήσθην",
+    "candidate": "μιμνήσκω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 383
+  },
+  {
+    "headword": "θνῄσκω, 2 aor. -έθανον, τέθνηκα, θανοῦμαι",
+    "candidate": "θνῄσκω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 384
+  },
+  {
+    "headword": "λύω, λύσω, ἔλυσα, λέλυκα, λέλυμαι, ἐλύθην",
+    "candidate": "λύω",
+    "partOfSpeech": "verb: -ω vowel stem",
+    "frequencyRank": 384
+  },
+  {
+    "headword": "τιμάω, τιμήσω, ἐτίμησα, τετίμηκα, τετίμημαι, ἐτιμήθην",
+    "candidate": "τιμάω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 386
+  },
+  {
+    "headword": "αἴρω, ἀρῶ, ἦρα, ἦρκα, ἦρμαι, ἤρθην",
+    "candidate": "αἴρω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 389
+  },
+  {
+    "headword": "ἀποκτείνω, ἀποκτενῶ, ἀπέκτεινα, ἀπέκτονα",
+    "candidate": "ἀποκτείνω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 390
+  },
+  {
+    "headword": "πίπτω, πεσοῦμαι, ἔπεσον, πέπτωκα",
+    "candidate": "πίπτω",
+    "partOfSpeech": "verb: -ω dental stem",
+    "frequencyRank": 395
+  },
+  {
+    "headword": "κατασκευάζω, κατασκευάσω, κατεσκεύασα",
+    "candidate": "κατασκευάζω",
+    "partOfSpeech": "verb: -ω dental stem",
+    "frequencyRank": 397
+  },
+  {
+    "headword": "κωλύω, κωλύσω, ἐκώλυσα, κεκώλυκα, κεκώλυμαι, ἐκωλύθην",
+    "candidate": "κωλύω",
+    "partOfSpeech": "verb: -ω vowel stem",
+    "frequencyRank": 400
+  },
+  {
+    "headword": "ἁμαρτάνω, ἁμαρτήσομαι, ἡμάρτησα, 2 aor. ἥμαρτον, ἡμάρτηκα, ἡμάρτημαι, ἡμαρτήθην",
+    "candidate": "ἁμαρτάνω",
+    "partOfSpeech": "verb: -ω dental stem",
+    "frequencyRank": 401
+  },
+  {
+    "headword": "διαφθείρω, διαφθερῶ, διέφθειρα, διέφθαρκα, διέφθαρμαι, διεφθάρην",
+    "candidate": "διαφθείρω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 402
+  },
+  {
+    "headword": "πειράω (usually mid. πειράομαι), πειράσομαι, ἐπείρασα, πεπείραμαι, ἐπειράθην",
+    "candidate": "πειράω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 407
+  },
+  {
+    "headword": "φοβέω, φοβήσω, ἐφόβησα, πεφόβημαι, ἐφοβήθην",
+    "candidate": "φοβέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 408
+  },
+  {
+    "headword": "βάλλω, βαλῶ, 2 aor. ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην",
+    "candidate": "βάλλω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 409
+  },
+  {
+    "headword": "συμφέρω, συνοίσω, 1 aor. συνήνεγκα",
+    "candidate": "συμφέρω",
+    "partOfSpeech": "verb: irregular",
+    "frequencyRank": 414
+  },
+  {
+    "headword": "πυνθάνομαι, πεύσομαι, 2 aor. ἐπυθόμην, πέπυσμαι",
+    "candidate": "πυνθάνομαι",
+    "partOfSpeech": "verb: deponent",
+    "frequencyRank": 415
+  },
+  {
+    "headword": "τέμνω, τεμῶ, 2 aor. ἔτεμον, -τέτμηκα, τέτμημαι, ἐτμήθην",
+    "candidate": "τέμνω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 417
+  },
+  {
+    "headword": "ὑπολαμβάνω, ὑπολήψομαι, ὑπέλαβον, ὑπείληφα, ὑπείλημμαι, ὑπελήφθην",
+    "candidate": "ὑπολαμβάνω",
+    "partOfSpeech": "verb: -ω labial stem",
+    "frequencyRank": 422
+  },
+  {
+    "headword": "λανθάνω, λήσω, ἔλαθον, λέληθα",
+    "candidate": "λανθάνω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 424
+  },
+  {
+    "headword": "πορεύω, πορεύσω, ἐπόρευσα, πεπόρευμαι, ἐπορεύθην",
+    "candidate": "πορεύω",
+    "partOfSpeech": "verb: -ω vowel stem",
+    "frequencyRank": 427
+  },
+  {
+    "headword": "ἀποκρίνω, ἀποκρινῶ, ἀπεκρινάμην, ἀπεκρίθη",
+    "candidate": "ἀποκρίνω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 428
+  },
+  {
+    "headword": "κατηγορέω, κατηγορήσω, κατηγόρησα, κατηγόρηκα, κατηγόρημαι, κατηγορήθην",
+    "candidate": "κατηγορέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 431
+  },
+  {
+    "headword": "τρέπω, τρέψω, ἔτρεψα, τέτροφα, ἐτράπην",
+    "candidate": "τρέπω",
+    "partOfSpeech": "verb: -ω labial stem",
+    "frequencyRank": 432
+  },
+  {
+    "headword": "κτάομαι, κτήσομαι, ἐκτησάμην, κέκτημαι",
+    "candidate": "κτάομαι",
+    "partOfSpeech": "verb: deponent",
+    "frequencyRank": 436
+  },
+  {
+    "headword": "λείπω, λείψω, ἔλιπον, λέλοιπα, λέλειμμαι, ἐλείφθην",
+    "candidate": "λείπω",
+    "partOfSpeech": "verb: -ω labial stem",
+    "frequencyRank": 437
+  },
+  {
+    "headword": "τίκτω, τέξω or τέξομαι, ἔτεκον, τέτοκα, τέτεγμαι, ἐτέχθην",
+    "candidate": "τίκτω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 441
+  },
+  {
+    "headword": "κομίζω, κομιῶ, ἐκόμισα, κεκόμικα, κεκόμισμαι, ἐκομίσθην",
+    "candidate": "κομίζω",
+    "partOfSpeech": "verb: -ω dental stem",
+    "frequencyRank": 442
+  },
+  {
+    "headword": "βλέπω, βλέψομαι, ἔβλεψα",
+    "candidate": "βλέπω",
+    "partOfSpeech": "verb: -ω labial stem",
+    "frequencyRank": 444
+  },
+  {
+    "headword": "φρονέω, φρονήσω, ἐφρόνησα",
+    "candidate": "φρονέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 448
+  },
+  {
+    "headword": "ὁρμάω, ὁρμήσω, ὥρμησα, ὥρμηκα, ὥρμημαι, ὡρμήθην",
+    "candidate": "ὁρμάω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 450
+  },
+  {
+    "headword": "παρασκευάζω, παρασκευάσω, παρεσκεύασα",
+    "candidate": "παρασκευάζω",
+    "partOfSpeech": "verb: -ω dental stem",
+    "frequencyRank": 451
+  },
+  {
+    "headword": "λαλέω, λαλήσω, ἐλάλησα, λελάληκα, ἐλαλήθην",
+    "candidate": "λαλέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 452
+  },
+  {
+    "headword": "δράω, δράσω, ἔδρασα, δέδρακα, δέδραμαι, ἐδράσθην",
+    "candidate": "δράω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 453
+  },
+  {
+    "headword": "σκοπέω, σκοπήσω, ἐσκόπησα",
+    "candidate": "σκοπέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 454
+  },
+  {
+    "headword": "ἐρωτάω, ἐρήσομαι, 2 aor. ἠρόμην",
+    "candidate": "ἐρωτάω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 458
+  },
+  {
+    "headword": "πολεμέω, πολεμήσω, ἐπολέμησα, πεπολέμηκα",
+    "candidate": "πολεμέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 459
+  },
+  {
+    "headword": "θύω, θύσω, ἔθυσα, τέθυκα, τέθυμαι, ἐτύθην",
+    "candidate": "θύω",
+    "partOfSpeech": "verb: -ω vowel stem",
+    "frequencyRank": 460
+  },
+  {
+    "headword": "ἐλαύνω, ἐλῶ, ἤλασα, -ελήλακα, ἐλήλαμαι, ἠλάθην",
+    "candidate": "ἐλαύνω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 461
+  },
+  {
+    "headword": "δέδοικα, δείσομαι, ἔδεισα",
+    "candidate": "δέδοικα",
+    "partOfSpeech": "verb: -ω dental stem",
+    "frequencyRank": 462
+  },
+  {
+    "headword": "ἁλίσκομαι, ἁλώσομαι, 2 aor. ἑάλων, ἑάλωκα",
+    "candidate": "ἁλίσκομαι",
+    "partOfSpeech": "verb: deponent",
+    "frequencyRank": 469
+  },
+  {
+    "headword": "βοηθέω, βοηθήσω, ἐβοήθησα, βεβοήθηκα",
+    "candidate": "βοηθέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 473
+  },
+  {
+    "headword": "ἀπαλλάσσω, ἀπαλλάξω, ἀπήλλαξα, ἀπήλλαχα, ἀπήλλαγμαι, ἀπηλλάχθην or ἀπηλλάγην",
+    "candidate": "ἀπαλλάσσω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 475
+  },
+  {
+    "headword": "βουλεύω βουλεύσω, ἐβούλευσα, βεβούλευκα, βεβούλευμαι, ἐβουλεύθην",
+    "candidate": "βουλεύω",
+    "partOfSpeech": "verb: -ω vowel stem",
+    "frequencyRank": 476
+  },
+  {
+    "headword": "αἰτέω, αἰτήσω, ᾔτησα, ᾔτηκα, ᾔτημαι, ᾐτήθην",
+    "candidate": "αἰτέω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 478
+  },
+  {
+    "headword": "διώκω, διώξομαι, ἐδίωξα, δεδίωχα, ἐδιώχθην",
+    "candidate": "διώκω",
+    "partOfSpeech": "verb: -ω palatal stem",
+    "frequencyRank": 481
+  },
+  {
+    "headword": "τολμάω, τολμήσω, ἐτόλμησα, τετόλμηκα, τετόλμημαι, ἐτολμήθην",
+    "candidate": "τολμάω",
+    "partOfSpeech": "verb: contracted",
+    "frequencyRank": 486
+  },
+  {
+    "headword": "βαίνω, βήσομαι, 2 aor. ἔβην, βέβηκα",
+    "candidate": "βαίνω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 494
+  },
+  {
+    "headword": "φράζω, φράσω, ἔφρασα, πέφρακα, πέφρασμαι, ἐφράσθην",
+    "candidate": "φράζω",
+    "partOfSpeech": "verb: -ω dental stem",
+    "frequencyRank": 504
+  },
+  {
+    "headword": "ἀγγέλλω, ἀγγελῶ, ἤγγειλα, ἤγγελκα, ἤγγελμαι, ἠγγέλθην",
+    "candidate": "ἀγγέλλω",
+    "partOfSpeech": "verb: -ω liquid stem",
+    "frequencyRank": 523
+  }
+]

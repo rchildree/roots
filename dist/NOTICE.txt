@@ -1,0 +1,22 @@
+Ancient Greek morphology sources
+
+Source paradigms and code: James Tauber, greek-inflexion,
+https://github.com/jtauber/greek-inflexion, MIT License.
+The generic inflexion engine is also by James Tauber,
+https://github.com/jtauber/inflexion, MIT License. The source distributions
+and license notices are included in the Roots source under data/greek-inflexion.
+
+The generated supplemental morphology uses the MorphGNT-derived stem lexicon.
+MorphGNT: SBLGNT Edition, edited by J. K. Tauber (2017), version 6.12,
+https://github.com/morphgnt/sblgnt, DOI 10.5281/zenodo.376200.
+Morphological analysis and lemmatization are licensed under Creative Commons
+Attribution-ShareAlike 3.0 Unported: https://creativecommons.org/licenses/by-sa/3.0/.
+Roots filters the lexicon to textbook vocabulary and transforms its stems into
+paradigm forms. The SBLGNT text is not included.
+
+DCC Greek Core Vocabulary (source snapshot and extracted verb entries)
+Dickinson College Commentaries, https://dcc.dickinson.edu/greek-core-list
+Licensed under Creative Commons Attribution-ShareAlike 3.0 Unported:
+https://creativecommons.org/licenses/by-sa/3.0/.
+Roots extracts verb entries and adds provisional headword and coverage fields;
+frequency ranks and source headwords remain attributed to DCC.
